@@ -1,15 +1,15 @@
 {
-    "name": "shameerc/slim-skeleton",
-    "description": "Slim Framework 3 skeleton project with Doctrine DBAL and Aura.Di",
+    "name": "mrcoco/myslim",
+    "description": "Slim Framework 3 skeleton project with eloquent ORM and Aura.Di",
     "license": "MIT",
     "type": "project",
-    "keywords": ["slim-framework", "skeleton", "doctrine"],
+    "keywords": ["slim-framework", "skeleton", "eloquent"],
     "minimum-stability": "dev",
     "authors": [
         {
-            "name": "Shameer",
-            "email": "me@shameerc.com",
-            "homepage": "http://blog.shameerc.com"
+            "name": "mrcoco",
+            "email": "spydersonics@gmail.com",
+            "homepage": "http://cempakaweb.com"
         }
     ],
     "require": {
